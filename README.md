@@ -8,6 +8,6 @@ Follow Me on:
 [![Linkedin Badge](https://img.icons8.com/color/48/null/linkedin.png)](https://www.linkedin.com/in/mohammadjavadianfarzaneh/)
 [![Twitter](https://img.icons8.com/color/48/null/twitter-squared.png)](https://twitter.com/M3000_JF)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3000j&hide=prs&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-javadian-farzaneh&hide=prs&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3000j&langs_count=5&hide=fortran,shell,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-javadian-farzaneh&langs_count=5&hide=fortran,shell,css)](https://github.com/anuraghazra/github-readme-stats)
