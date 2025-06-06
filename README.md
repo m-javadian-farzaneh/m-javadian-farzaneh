@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mohammad Javadian Farzaneh and I am about 28 years old.
-- 👀 I’m interested in AI especially Machine Vision area.
-- 🌱 Nowadys I am working on AI side projects to learn more about python and machine learning techniques.
-- 🏫 Moreover, I am seeking for PhD positions related to machine learning, especially deep learning positions related to machine vision.
+- 👋 Hi, I’m Mohammad Javadian Farzaneh and I am about 29 years old.
+- 👀 I’m interested in AI and HCI especially MR.
+- 🌱 Nowadys I am doing my PhD in Computer Science and Engineering at Sabanci University.
 
 Follow Me on:  
 [![Medium](https://img.icons8.com/color/48/null/medium-monogram.png)](https://medium.com/@m-javadian)
